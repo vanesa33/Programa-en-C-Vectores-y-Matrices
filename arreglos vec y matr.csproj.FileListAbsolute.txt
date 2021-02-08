@@ -1,0 +1,11 @@
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\bin\Debug\netcoreapp3.1\arreglos vec y matr.exe
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\bin\Debug\netcoreapp3.1\arreglos vec y matr.deps.json
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\bin\Debug\netcoreapp3.1\arreglos vec y matr.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\bin\Debug\netcoreapp3.1\arreglos vec y matr.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\bin\Debug\netcoreapp3.1\arreglos vec y matr.dll
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\bin\Debug\netcoreapp3.1\arreglos vec y matr.pdb
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\obj\Debug\netcoreapp3.1\arreglos vec y matr.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\obj\Debug\netcoreapp3.1\arreglos vec y matr.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\obj\Debug\netcoreapp3.1\arreglos vec y matr.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\obj\Debug\netcoreapp3.1\arreglos vec y matr.dll
+C:\Users\Ivanesa\source\repos\arreglos vec y matr\arreglos vec y matr\obj\Debug\netcoreapp3.1\arreglos vec y matr.pdb
